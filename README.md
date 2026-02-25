@@ -22,3 +22,12 @@ Globalize is a lightweight Streamlit-based web application that breaks language 
 - Googletrans - Real-time translation
 
 - WordCloud - Visual text analysis
+
+### Project Screenhots
+
+<img width="1875" height="859" alt="Output1" src="https://github.com/user-attachments/assets/31d453f2-d8c2-4cd5-ba1d-80fabaab1d77" />
+
+<img width="1317" height="762" alt="output2" src="https://github.com/user-attachments/assets/fd7c0cf9-7f18-466c-a35c-2f2a83599b45" />
+
+<img width="1404" height="796" alt="output3" src="https://github.com/user-attachments/assets/1c302b9f-cfcd-477b-ab64-d0b93ce316e1" />
+
